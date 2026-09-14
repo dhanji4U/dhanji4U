@@ -19,6 +19,6 @@ Founder and Principal Engineer at [Emiote](https://emiote.com). I build and ship
 
 - Website: [emiote.com](https://emiote.com)
 - Email: [dhanji@emiote.com](mailto:dhanji@emiote.com)
-- X: [@dhanji_bhagat](https://x.com/dhanji_bhagat)
-- LinkedIn: [Dhanji Bhagat](https://www.linkedin.com/in/dhanji-bhagat-609804245/)
+- X: [@BhagatDhanji](https://x.com/BhagatDhanji)
+- LinkedIn: [Dhanji Bhagat](https://www.linkedin.com/in/dhanji-bhagat/)
 - Booking: [cal.com/dhanjib/15min](https://cal.com/dhanjib/15min)
