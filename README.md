@@ -11,8 +11,8 @@ Founder and Principal Engineer at [Emiote](https://emiote.com). I build and ship
 
 ## Core Stack
 
-- **Desktop**: Tauri v2, native OS APIs (Windows IFileOperation, macOS NSFileManager)
-- **Systems & Backend**: Node.js, TypeScript, PostgreSQL, Cloudflare Workers
+- **Desktop**: Tauri v2
+- **Systems & Backend**: Node.js, Express.js, NestJS, TypeScript, PostgreSQL, Cloudflare Workers
 - **Frontend**: Next.js, Astro, React, Tailwind CSS
 
 ## Contact
